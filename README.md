@@ -1,5 +1,5 @@
-Program to demonstrate Java Multithreading by solving the ‘classic’ Producer/Consumer problem
-using Java Multithreading and Thread-safe Collections.
-Gained experience in implementing a solution to a ‘classic’ Producer/Consumer problem
-and implementing a (thread-safe) Concurrent Collection class as well as
-using a JDK provided class. Developed program using Hibernate in a thread-safe manner.
+- An Eclipse Maven project 
+- Created a JPA Model class to represent a Database row
+- Created a NamedBean class to manipulate above Model class
+- Created a JSF WebApp that supports Create – Read – Update – Delete lifecycle for
+instances of the Model class
